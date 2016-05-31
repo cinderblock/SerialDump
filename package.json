@@ -8,5 +8,10 @@
   },
   "repository": "https://github.com/cinderblock/SerialDump.git",
   "author": "Cameron Tacklind <cameron@tacklind.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "crc": "^3.4.0",
+    "csv-write-stream": "^2.0.0",
+    "serialport": "^3.1.2"
+  }
 }
